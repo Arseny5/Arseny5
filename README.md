@@ -1,6 +1,6 @@
 ## Ivanov Arseny
 
-BSc student at NUST MISIS
+BSc student at NUST MISIS / Data Researcher at Sber
 
 ML stack: *PyTorch, PyTorch Geometric, Deep Graph Library, Keras, StellarGraph, NetworkX, Optuna, W&B*
 
