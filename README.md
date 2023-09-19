@@ -85,7 +85,7 @@ optimization of model training
 cap with sensors
 
 ### 🎉 Funding
-* Support program of commercially oriented researches ”UMNIK”
+* Support program of commercially oriented researches ”UMNIK”, supported by NUST MISIS | Sber Robotics Lab
   - Learning LLM models for the tasks of robotic manipulation (2022-2023) | (6000$ award) | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing)
  
 
