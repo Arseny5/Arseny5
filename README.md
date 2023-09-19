@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Arseny Ivanov!
 </h2>
 
