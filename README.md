@@ -7,7 +7,8 @@
 </h2>
 
 #### Machine learning engineer / Data Scientist
-**Fields of interest:** Transformers, Graphs, Generative models
+**Fields of interest:** Transformers, NLP/LLM, RecSys, Graphs, Bayesian approach, Generative models
+**My telegram channel**: [Cat's Shredinger](https://t.me/ivarsivars)
 
 BSc student at NUST MISIS / Data Researcher at Sber
 
