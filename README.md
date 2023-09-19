@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Oscar!
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Arseny Ivanov!
 </h2>
 
 BSc student at NUST MISIS / Data Researcher at Sber
