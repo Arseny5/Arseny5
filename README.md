@@ -63,6 +63,7 @@
   <a href="https://seaborn.pydata.org" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-  
 </p>
 
+### GitHub Stats ⭐
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=arseny5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
