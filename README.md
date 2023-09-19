@@ -78,7 +78,7 @@
 ### 🏆 Competition and Hackatons Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
 * 🥇 [RuCode 7.0](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/leffff/rucode_7)
-* 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
+* 🥈 [Avanpost Hackaton](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing) | (1000$ award)
 * 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
 * Finalists [VTB More Tech 4.0](https://moretech.vtb.ru) | [Solution](https://github.com/leffff/vtb_more_tech)
 * 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
