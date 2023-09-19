@@ -12,6 +12,9 @@
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
 
+**My curriculum vitae**: [CV](https://drive.google.com/file/d/117lfWmSmg5VSPKMNa8FjdUN-3KTXZJqq/view?usp=sharing)
+</br>
+
 BSc student at NUST MISIS / Data Researcher at Sber
 
 ML stack: *PyTorch, PyTorch Geometric, Deep Graph Library, Keras, StellarGraph, NetworkX, Optuna, W&B*
