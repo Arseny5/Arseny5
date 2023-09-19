@@ -69,7 +69,7 @@
 * Sberbank, [Sber AmazMe](https://www.sberbank.ru) / Research Data Scientist / Recommender Systems (June 2022 - Present Day):
   - Active participation in deploying algorithms into production operation
   - Conducting and analyzing A/B tests
-  - Monitoring ML trends: reading papers from RecSys conferences, participating in the internal reading club
+  - Reading papers from RecSys conferences, participating in the internal reading club
   - Managed to significantly improve the recommendations: preprocessing and filtering of data,
 optimization of model training
 * Sberbank, [Sber AI](https://www.sberbank.ru) / Research Assistant (Mar 2022 - Nov 2022)
