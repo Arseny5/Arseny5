@@ -65,6 +65,25 @@
   </a>
 </p>
 
+### 👨‍💻 Work experience
+* Sberbank, [Sber AmazMe](https://www.sberbank.ru) Research Data Scientist / Recommender Systems (June 2022 - Present Day):
+  - Active participation in deploying algorithms into production operation
+  - Conducting and analyzing A/B tests
+  - Monitoring ML trends: reading papers from RecSys conferences, participating in the internal reading club
+  - Managed to significantly improve the recommendations: preprocessing and filtering of data,
+optimization of model training
+* Sberbank, [Sber AI](https://www.sberbank.ru) Research Assistant (Mar 2022 - Nov 2022)
+  - Conducted an analysis of advanced scientific papers on the problem of predicting travel time
+  - Developed graph algorithms for travel time estimation, improved predictions quality by 11%
+  - Published research paper TTE on GNN for the JBD ”Journal of Big Data”
+* Sberbank, [Sber Robotics Lab](https://www.sberbank.ru) Engineer in the student team / Computer vision (Sep 2021 - Mar 2022)
+  - Implementation of the robot localization mechanism relative to surrounding objects
+  - Competed in the all-Russian final of one of the world’s robotics competition - EuroBot Open
+* Sberbank, [Sber Devices](https://www.sberbank.ru) Data Science Intern (Oct 2021 - Jan 2022)
+  - Research in the field of neuromorphic artificial intelligence and cognitive systems of the brain
+  - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
+cap with sensors
+
 ### 🎓 Education
 * [NUST MISIS Applied Maths B.S](https://en.misis.ru) (Since 2020)
 * [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2021)
