@@ -75,15 +75,10 @@
 * [Basic administration ОС Linux Special Edition](https://stepik.org/course/93462) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
   
 
-### 🏆 Competition and Hackatons Background
-* 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
-* 🥇 [RuCode 7.0](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/leffff/rucode_7)
-* 🥈 [Avanpost Hackaton](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing) | (1000$ award)
-* 🥈 [RuCode 5.0](https://rucode.net) "AI in vocation salary prediction" 2022 | [Solution](https://github.com/leffff/RuCode-Payroll-2022)
-* Finalists [VTB More Tech 4.0](https://moretech.vtb.ru) | [Solution](https://github.com/leffff/vtb_more_tech)
-* 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
-* 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml) | [Solution](https://github.com/leffff/yandex_cup_nlp_2021)
-* 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+### 🏆 Competition and Hackathons Background
+* 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation system for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
+* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Video Recommendation system for RuTube" 2023 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
+* 🥈 [Avanpost Hackathon](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing) | (1000$ award)
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 
 ### Languages
