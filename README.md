@@ -84,6 +84,11 @@ optimization of model training
   - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
 cap with sensors
 
+### 🎉 Funding
+* Support program of commercially oriented researches ”UMNIK”
+  - Learning LLM models for the tasks of robotic manipulation (2022-2023) | (6000$ award) | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing)
+ 
+
 ### 🎓 Education
 * [NUST MISIS Applied Maths B.S](https://en.misis.ru) (Since 2020)
 * [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2021)
