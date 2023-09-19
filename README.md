@@ -84,7 +84,7 @@
 * 🥈 [Avanpost Hackathon](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/itatmisis/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing) | (1000$ award)
 * 🥈 [Leaders of Digital Transformation «ЛЦТ»](https://rucode.net) "TTE and route prediction" 2023 | [Solution](https://github.com/Vloods/whoosh_LDT) | [Diploma](https://drive.google.com/file/d/1yDDoblMRaeRQhtsNO2x6Aszc4I0Qdbvl/view?usp=sharing) | (6000$ award)
 * 4/40 [X-MAS Hackathon](https://xmas-hack.ru/) "Named-entity recognition (NER) with documents" 2022 | [Solution](https://github.com/komtriangle/xmas)
-* 5/30 [Sber Zvuk Hackathon](https://codenrock.com/contests/sberzvuk-techdays)"Debuting popular personalities on video" 2021 | [Diploma](https://drive.google.com/file/d/1fiPX0enLfBXcz-BYGAQgrmq58EdVwrus/view?usp=sharing)
+* 5/30 [Sber Zvuk Hackathon](https://codenrock.com/contests/sberzvuk-techdays) "Debuting popular personalities on video" 2021 | [Diploma](https://drive.google.com/file/d/1fiPX0enLfBXcz-BYGAQgrmq58EdVwrus/view?usp=sharing)
 * 7/45 [Lenta Hack The Cart](https://hackthecart.ru/) "Recommendation System for marketplace Lenta" 2021 | [Diploma](https://drive.google.com/file/d/1xve3laWQt3f5xiE-Z81bhSrHvIpcOSKm/view?usp=sharing)
 * 5/30 [AgroCode Hackathon](https://agro-code.ru/hack/) "Building an optimized driving route" 2021 | [Diploma](https://drive.google.com/file/d/12HgnziPT41Iqr2A47guI7tZk8Gc9skfT/view?usp=sharing)
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
