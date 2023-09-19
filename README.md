@@ -116,7 +116,7 @@ cap with sensors
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 
 ### 🔥 Other projects
-* Creator and founder Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
+* Creator and founder of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
   - Аuthor and lecturer of the course on [Intro to ML](https://ai-knowledge-club.ru/courseml/index.html)
   - Host at [Research Papers Club](https://ai-knowledge-club.ru/workshop/index.html)
 
