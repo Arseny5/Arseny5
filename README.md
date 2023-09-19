@@ -8,7 +8,7 @@
 
 #### Machine learning engineer / Data Scientist
 **Fields of interest:** Transformers, NLP/LLM, RecSys, Graphs, Bayesian approach, Generative models
-**My telegram channel**: [Cat's Shredinger](https://t.me/ivarsivars)
+**My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
 
 BSc student at NUST MISIS / Data Researcher at Sber
 
