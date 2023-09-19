@@ -72,10 +72,10 @@
 * [Sumsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
 * [Sumsung Research Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
 * [Sports programming ACM MISIS](https://vk.com/acmmisis) (2020 - 2021) 
-* [Basic administration ОС Linux Special Edition»](https://stepik.org/course/93462) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
+* [Basic administration ОС Linux Special Edition](https://stepik.org/course/93462) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
   
 
-### 🏆 Competition Background
+### 🏆 Competition and Hackatons Background
 * 🥇 [AIIJC](https://aiijc.com/ru/) "AI in Customer service" 2021 | [Solution Description](https://github.com/leffff/AI-IJC)
 * 🥇 [RuCode 7.0](https://rucode.net) "AI-generated text classification" 2023 | [Solution](https://github.com/leffff/rucode_7)
 * 🥈 [RuCode 6.0](https://rucode.net) "Car color classification" 2022 | [Solution](https://github.com/leffff/rucode_6)
@@ -84,8 +84,7 @@
 * 24/113 [Leaders of Digital](https://hacks-ai.ru/championships/758453) "AI in prediction of RBC news popularity" | [Solution](https://github.com/leffff/leaders_of_digital_rbc_2022)
 * 21/76 [Yandex ML Cup NLP](https://yandex.ru/cup/ml) | [Solution](https://github.com/leffff/yandex_cup_nlp_2021)
 * 11/50 [NTI BD&ML 2020-2021](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
-* 168/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/leffff/mts-ml-cup)
-
+* 168/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 
 ### Languages
 🇷🇺 Russian - Native <br>
