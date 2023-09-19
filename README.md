@@ -76,7 +76,7 @@
   
 
 ### 🏆 Competition and Hackathons Background
-* 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation system for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
+* 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
 * 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Service for marketplace using AI" 2022 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
 * 🥇 [Rosatom City Hackathon](https://atomhack.rosatom.city/) "Analytics for business using graphs" 2021 | [Diploma](https://drive.google.com/file/d/1rz5bHnmd1VzkhxjZcabYOchBM4E0NRHn/view?usp=sharing) | (2000$ award)
 * 🥇 [«Энергия прорыва» Hackathon](https://codenrock.com/contests/hakaton-energyhack#/) "Predictive system for gas distribution system" 2021 | [Diploma](https://drive.google.com/file/d/10VNmJB1gYa_2uiXMxlbn24Ncl7HGZitz/view?usp=sharing) | (3000$ award)
@@ -85,6 +85,8 @@
 * 🥈 [Leaders of Digital Transformation «ЛЦТ»](https://rucode.net) "TTE and route prediction using graphs" 2023 | [Solution](https://github.com/Vloods/whoosh_LDT) | [Diploma](https://drive.google.com/file/d/1yDDoblMRaeRQhtsNO2x6Aszc4I0Qdbvl/view?usp=sharing) | (6000$ award)
 * 4/40 [X-MAS Hackathon](https://xmas-hack.ru/)"Named-entity recognition (NER) with documents" 2022 | [Solution](https://github.com/komtriangle/xmas)
 * 5/30 [Sber Zvuk Hackathon](https://codenrock.com/contests/sberzvuk-techdays)"Debuting popular personalities on video" 2021 | [Diploma](https://drive.google.com/file/d/1fiPX0enLfBXcz-BYGAQgrmq58EdVwrus/view?usp=sharing)
+* 7/45 [Lenta Hack The Cart](https://hackthecart.ru/)"Recommendation System for marketplace Lenta" 2021 | [Diploma](https://drive.google.com/file/d/1xve3laWQt3f5xiE-Z81bhSrHvIpcOSKm/view?usp=sharing)
+* 5/30 [AgroCode Hackathon](https://agro-code.ru/hack/)"Building an optimized driving route" 2021 | [Diploma](https://drive.google.com/file/d/12HgnziPT41Iqr2A47guI7tZk8Gc9skfT/view?usp=sharing)
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 
 ### Languages
