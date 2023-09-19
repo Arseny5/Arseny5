@@ -120,5 +120,5 @@ cap with sensors
 🇬🇧 English - C1 <br>
 🇨🇵 French - A1 <br>
 
-### GitHub Stats ⭐
+### ⭐ GitHub Stats
 [![Arseny Ivanov github stats](https://github-readme-stats.vercel.app/api?username=arseny5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
