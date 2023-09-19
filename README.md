@@ -115,7 +115,7 @@ cap with sensors
 * 5/30 [AgroCode Hackathon](https://agro-code.ru/hack/) "Building an optimized driving route" 2021 | [Diploma](https://drive.google.com/file/d/12HgnziPT41Iqr2A47guI7tZk8Gc9skfT/view?usp=sharing)
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 
-### Other projects
+### 🔥 Other projects
 * Creator and founder Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
   - Аuthor and lecturer of the course on [Intro to ML](https://ai-knowledge-club.ru/courseml/index.html)
   - Host at [Research Papers Club](https://ai-knowledge-club.ru/workshop/index.html)
