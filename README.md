@@ -65,7 +65,7 @@
   </a>
 </p>
 
-### 👨‍💻 Work experience
+### 👔 Work experience
 * Sberbank, [Sber AmazMe](https://www.sberbank.ru) / Research Data Scientist / Recommender Systems (June 2022 - Present Day):
   - Active participation in deploying algorithms into production operation
   - Conducting and analyzing A/B tests
