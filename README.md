@@ -77,10 +77,10 @@
 
 ### 🏆 Competition and Hackathons Background
 * 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation system for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
-* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Matching of marketplace products and their standards using AI" 2023 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
+* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Service for marketplace using AI" 2023 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
 * 🥇 [Rosatom City Hackaton](https://atomhack.rosatom.city/) "Analytics for business using graphs" 2021 | [Diploma](https://drive.google.com/file/d/1rz5bHnmd1VzkhxjZcabYOchBM4E0NRHn/view?usp=sharing) | (2000$ award)
 * 🥇 [«Энергия прорыва» Hackaton](https://codenrock.com/contests/hakaton-energyhack#/) "Predictive system for gas distribution system" 2021 | [Diploma](https://drive.google.com/file/d/10VNmJB1gYa_2uiXMxlbn24Ncl7HGZitz/view?usp=sharing) | (3000$ award)
-* 🥇 [Whoosh Mobility Hackathon](https://whoosh-bike.ru/page26014231.html) "Intelligent route search service and time prediction using GNN" 2021 | [Solution](https://github.com/itatmisis/whoosh-bokom-na-kike) | [Diploma](https://drive.google.com/file/d/1kUJQy91_6KZb5hirNjSY7LWei9uHfwOc/view?usp=sharing) | (2500$ award)
+* 🥇 [Whoosh Mobility Hackathon](https://whoosh-bike.ru/page26014231.html) "TTE and route search service using GNN" 2021 | [Solution](https://github.com/itatmisis/whoosh-bokom-na-kike) | [Diploma](https://drive.google.com/file/d/1kUJQy91_6KZb5hirNjSY7LWei9uHfwOc/view?usp=sharing) | (2500$ award)
 * 🥈 [Avanpost Hackathon](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/triflt/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing) | (1000$ award)
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 
