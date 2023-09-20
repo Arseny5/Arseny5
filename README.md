@@ -114,6 +114,7 @@ cap with sensors
 * 7/45 [Lenta Hack The Cart](https://hackthecart.ru/) "Recommendation System for marketplace Lenta" 2021 | [Diploma](https://drive.google.com/file/d/1xve3laWQt3f5xiE-Z81bhSrHvIpcOSKm/view?usp=sharing)
 * 5/30 [AgroCode Hackathon](https://agro-code.ru/hack/) "Building an optimized driving route" 2021 | [Diploma](https://drive.google.com/file/d/12HgnziPT41Iqr2A47guI7tZk8Gc9skfT/view?usp=sharing)
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
+* 1/4 final [ICPC: The 2020 Moscow Regional Contest](https://icpc.global/) | [Diploma](https://drive.google.com/file/d/1UKkFJvRUJgbIkNrkoZtFDfPGQxjUT8HB/view?usp=sharing)
 
 ### 🔥 Other projects
 * Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
