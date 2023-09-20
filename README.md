@@ -96,7 +96,7 @@ cap with sensors
 * [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2021)
 * [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/Yessense/llm_planning)
 * [Sumsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
-* [Sumsung Research Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
+* [Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
 * [Sports programming ACM MISIS](https://vk.com/acmmisis) (2020 - 2021) 
 * [Basic administration ОС Linux Special Edition](https://stepik.org/course/93462) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
   
