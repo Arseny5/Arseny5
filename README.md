@@ -89,7 +89,7 @@ cap with sensors
   - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing) | (6500$ award)
 
  ### 📜 Publications
- * [GCT-TTE: Graph Convolutional Transformer for Travel Time Estimation](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation)
+ * [GCT-TTE: Graph Convolutional Transformer for Travel Time Estimation](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
 
 ### 🎓 Education
 * [NUST MISIS Applied Maths B.S](https://en.misis.ru) (Since 2020)
