@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/arseny5?style=social)<br>
 
 <h2 align="left">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Arseny Ivanov!
+   Hello, I'm Arseny Ivanov!
 </h2>
 
 #### AI Researcher at Sber / BSc student at NUST MISIS
