@@ -122,7 +122,7 @@ cap with sensors
 
 ### Languages
 🇷🇺 Russian - Native <br>
-🇬🇧 English - C1 <br>
+🇬🇧 English - B2 <br>
 🇨🇵 French - A1 <br>
 
 ### ⭐ GitHub Stats
