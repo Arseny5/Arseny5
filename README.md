@@ -2,9 +2,7 @@
 ![](https://img.shields.io/github/followers/arseny5?style=social)<br>
 ![](https://img.shields.io/github/stars/arseny5?style=social)<br>
 
-<h2 align="left">
-   Hello, I'm Arseny Ivanov!
-</h2>
+#### **Hello, I'm Arseny Ivanov!**
 
 #### AI Researcher at Sber / BSc student at NUST MISIS
 
