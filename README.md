@@ -92,7 +92,7 @@ cap with sensors
 
 ### 🎓 Education
 * [NUST MISIS Applied Maths B.S](https://en.misis.ru) (Since 2020)
-* [Deep Learning School](https://dls.samcs.ru/) (Since 2020 - 2021)
+* [Deep Learning School](https://dls.samcs.ru/) (2020 - 2021)
 * [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/Yessense/llm_planning)
 * [Sumsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
 * [Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
