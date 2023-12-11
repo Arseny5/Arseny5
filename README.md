@@ -117,8 +117,11 @@ cap with sensors
 
 ### 🔥 Other projects
 * Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
-  - Аuthor and lecturer of the course on [Intro to ML](https://ai-knowledge-club.ru/courseml/index.html)
+  - Аuthor and lecturer of the course on [Introduction in ML 2022](https://ai-knowledge-club.ru/courseml_22/index.html)
+  - - [Random forest, Bagging, Boosting](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-3-011122-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
+  - Аuthor and lecturer of the course on [Introduction in ML 2023](https://ai-knowledge-club.ru/courseml_23/index.html)
   - Host at [Research Papers Club](https://ai-knowledge-club.ru/workshop/index.html)
+ 
  
 ### 🎉 Other Achievements
 * [AstraLinux Scholarship](https://astralinux.ru/about/press-center/news/bolee-70-studentov-poluchayut-ezhemesyachnoe-voznagrazhdenie-v-ramkakh-programmy-astra-stipendiya/) holder (2023 - 2024)
