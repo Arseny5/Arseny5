@@ -119,6 +119,10 @@ cap with sensors
 * Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
   - Аuthor and lecturer of the course on [Intro to ML](https://ai-knowledge-club.ru/courseml/index.html)
   - Host at [Research Papers Club](https://ai-knowledge-club.ru/workshop/index.html)
+ 
+### 🎉 Other Achievements
+* [AstraLinux Scholarship](https://astralinux.ru/about/press-center/news/bolee-70-studentov-poluchayut-ezhemesyachnoe-voznagrazhdenie-v-ramkakh-programmy-astra-stipendiya/) holder (2023 - 2024)
+* [VK Education Scholarship](https://education.vk.company/program/239) holder (2023 - 2024)
 
 ### Languages
 🇷🇺 Russian - Native <br>
