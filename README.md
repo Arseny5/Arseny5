@@ -6,7 +6,7 @@
 
 #### AI Researcher at Sber / BSc student at NUST MISIS
 
-**Fields of interest:** Transformers, NLP/LLM, RecSys, Graphs, Bayesian approach, Generative models
+**Fields of interest:** Transformers, NLP/LLM, RL, Embodied AI, RecSys
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
 
