@@ -133,6 +133,3 @@ Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-clu
 🇷🇺 Russian - Native <br>
 🇬🇧 English - B2 (Intermediate-Advanced) <br>
 🇨🇵 French - A2 (Elementary) <br>
-
-### ⭐ GitHub Stats
-[![Arseny Ivanov github stats](https://github-readme-stats.vercel.app/api?username=arseny5&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
