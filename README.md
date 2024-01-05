@@ -118,10 +118,10 @@ cap with sensors
 ### 🔥 Other projects
 Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
 * Аuthor and lecturer of the course on [Introduction in ML 2022](https://ai-knowledge-club.ru/courseml_22/index.html)
-  - 🎥 [Random forest, Ensembles, Bagging, Boosting](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-3-011122-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
-  - 🎥 [Introduction to Deep Learning](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-5-181122-%D0%BE%D1%87%D0%BD%D0%BE---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
+  - 🧑‍🏫 🎥 [Random forest, Ensembles, Bagging, Boosting](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-3-011122-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
+  - 🧑‍🏫 🎥 [Introduction to Deep Learning](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-5-181122-%D0%BE%D1%87%D0%BD%D0%BE---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
 * Аuthor and lecturer of the course on [Introduction in ML 2023](https://ai-knowledge-club.ru/courseml_23/index.html)
-  - 🎥 [Clustering and dimensionality reduction algorithms](https://youtu.be/HXzamzW-68s?si=qr2Mft_pV7P2TShh)
+  - 🧑‍🏫 🎥 [Clustering and dimensionality reduction algorithms](https://youtu.be/HXzamzW-68s?si=qr2Mft_pV7P2TShh)
 * Host at [Research Papers Club](https://ai-knowledge-club.ru/workshop/index.html)
  
  
