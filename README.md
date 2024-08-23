@@ -11,7 +11,7 @@
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
 
-**My curriculum vitae**: [CV](https://drive.google.com/file/d/117lfWmSmg5VSPKMNa8FjdUN-3KTXZJqq/view?usp=sharing)
+**My curriculum vitae**: [CV](https://drive.google.com/file/d/1Vt98EPYBfRpTMTY2HJwviRegxoQeJo_L/view?usp=sharing)
 </br>
 
 ### 📊 ML stack
