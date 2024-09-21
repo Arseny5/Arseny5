@@ -92,7 +92,6 @@ cap with sensors
 
 ### 🎓 Education
 * [NUST MISIS Applied Maths B.S](https://en.misis.ru) (2020 - 2024)
-* Skoltech x HSE Math Machine Learning (Since 2024)
 * [Deep Learning School](https://dls.samcs.ru/) (2020 - 2021)
 * [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/Yessense/llm_planning) | [Habr Paper](https://habr.com/en/companies/airi/articles/764102/)
 * [Sumsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
