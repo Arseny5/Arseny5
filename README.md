@@ -115,6 +115,8 @@ cap with sensors
 
 ### 🔥 Conferences and Public Talks
 
+### 🔥 Projects
+
 ### 🔥 Other projects
 Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
 * Аuthor and lecturer of the course on [Introduction in ML 2022](https://ai-knowledge-club.ru/courseml_22/index.html)
