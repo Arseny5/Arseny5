@@ -96,7 +96,7 @@ cap with sensors
   - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing) | (6500$ award)
 
  ### 📜 Publications
- * [Gct-TTE: graph convolutional transformer for travel time estimation. Journal of Big Data, 2023](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
+ * [Gct-TTE: graph convolutional transformer for travel time estimation. Journal of Big Data, 11(1), 15.](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
   
 ### 🏆 Competition and Hackathons Background
 * 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
