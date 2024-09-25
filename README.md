@@ -83,6 +83,15 @@ optimization of model training
   - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
 cap with sensors
 
+### 🎓 Education
+* [NUST MISIS Applied Maths B.S](https://en.misis.ru) (2020 - 2024)
+* [Deep Learning School](https://dls.samcs.ru/) (2020 - 2021)
+* [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/Yessense/llm_planning) | [Habr Paper](https://habr.com/en/companies/airi/articles/764102/)
+* [Sumsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
+* [Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
+* [Basic administration ОС Linux Special Edition](https://astralinux.ru/) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
+  
+
 ### 🎉 Funding
 * Support program of commercially oriented researches ”UMNIK” (NUST MISIS / Sber Robotics Lab)
   - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing) | (6500$ award)
