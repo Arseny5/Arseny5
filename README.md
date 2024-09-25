@@ -113,7 +113,7 @@ cap with sensors
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 * 1/4 final [ICPC: The 2020 Moscow Regional Contest](https://icpc.global/) | [Diploma](https://drive.google.com/file/d/1UKkFJvRUJgbIkNrkoZtFDfPGQxjUT8HB/view?usp=sharing)
 
-### 🔥 Conferences and Public Talks
+### 📢 Conferences and Public Talks
 
 * **AIRI Summer School ”Summer with AIRI” (St. Petersburg, Russia, 2024)**
   - Poster: [Vision-Language Models for Robot Success Detection](https://drive.google.com/file/d/12DtpA5dLxXosuFxuU3_5XlfJLdDAK_EA/view?usp=sharing)
