@@ -66,15 +66,22 @@
 </p>
 
 ### 👔 Work experience
-| Job Position                  | Company                    | Field                         | Work Period       |
-| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
-| **Head of AI Transformation** | **Social Discovery Group** | **LLM, Conversational AI**    | **2024-05 — now** |
-| Research Scientist Lead       | SberDevices                | LLM, GigaChat                 | 2023-04 — 2024-05 |
-| NLP Team Lead                 | SberDevices                | Search, Information Retrieval | 2022-10 — 2023-04 |
-| NLP Tech Lead                 | Sber AI Lab                | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
-| Senior NLP Engineer           | Tinkoff AI Lab             | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
-| Middle NLP Engineer           | MTS AI Lab                 | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
-| Junior Data Scientist         | Sberbank                   | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
+* Sberbank, [Sber Robotics Lab](https://www.sberbank.ru) / NLP Multimodal Researcher (Feb 2024 - Present)
+  - Developed a FeedBack Module for evaluating of the execution of actions in the environment (Video-Text Retrieval - SFT CLIP, ViClip, VideoLlava, VideoMamba).
+* Sberbank, [Sber AmazMe](https://www.sberbank.ru) / Research Data Scientist / Recommender Systems (Jun 2022 - Feb 2024):
+  - Active participation in deploying algorithms into production operation
+  - Conducting and analyzing A/B tests
+  - Reading papers from RecSys conferences, participating in the internal reading club
+  - Managed to significantly improve the recommendations: preprocessing and filtering of data,
+optimization of model training
+* Sberbank, [Sber AI](https://www.sberbank.ru) / Research Assistant (Jan 2022 - Nov 2022)
+  - Conducted an analysis of advanced scientific papers on the problem of predicting travel time
+  - Developed graph algorithms for travel time estimation, improved predictions quality by 11%
+  - Published research paper TTE on GNN for the JBD ”Journal of Big Data”
+* Sberbank, [Sber Devices](https://www.sberbank.ru) / Data Science Intern (Oct 2021 - Jan 2022)
+  - Research in the field of neuromorphic artificial intelligence and cognitive systems of the brain
+  - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
+cap with sensors
 
 ### 🎉 Funding
 * Support program of commercially oriented researches ”UMNIK” (NUST MISIS / Sber Robotics Lab)
