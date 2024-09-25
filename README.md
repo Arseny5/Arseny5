@@ -6,7 +6,7 @@
 
 #### AI Researcher at Sber / BSc student at NUST MISIS
 
-**Fields of interest:** Multimodal foundation models, LLM/CV, Generative AI (Diffusion, VAE, GAN/WGAN, Optimal Transport, Rectified flow), Embodied AI (Planning, Manipulation, Imitation learning)
+**Fields of interest:** Foundation Multimodal, Generative AI (Diffusion, VAE/GAN, Optimal Transport, Flow Matching), Embodied AI (Planning, Manipulation, Imitation learning)
 
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
