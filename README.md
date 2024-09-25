@@ -129,6 +129,8 @@ cap with sensors
   -  Transformers and Attention (Self-Attention, Encoder, Decoder) - [Video](https://youtu.be/HXzamzW-68s?si=qr2Mft_pV7P2TShh)
 
 ### 🔥 Projects
+
+* Binary VQA: binary answer to the question on the image (BLIP, VILT, RoBERTa + VIT)
  
  
 ### 🎉 Other Achievements 
