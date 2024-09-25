@@ -121,7 +121,7 @@ cap with sensors
   - Poster: [Graph Convolutional Transformers for Travel Time Estimation](https://drive.google.com/file/d/1QLB5AhzbN-O58WHVHuqZRNhAZkkIK-LQ/view?usp=sharing)
 * **AIRI Summer School ”Summer with AIRI” (Kazan, Russia, 2023)**
   - Poster: [Grounding Local LLMs to Robotic Manipulation Tasks](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing)
-  - Habr paper: How to set a list of actions using language models and voice commands?
+  - Habr paper: [How to set a list of actions using language models and voice commands?](https://habr.com/en/companies/airi/articles/764102/)
 * **Head of DS Community [AI Knowledge Club](https://ai-knowledge-club.ru). Lecturer of the courses:**
   -  Random forest, Ensembles, Bagging, Boosting - [Video](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-3-011122-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
   -  Introduction to Deep Learning (Tensors, MLP, CNN) - [Video](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-5-181122-%D0%BE%D1%87%D0%BD%D0%BE---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
