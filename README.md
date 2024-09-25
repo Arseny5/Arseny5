@@ -84,8 +84,8 @@ optimization of model training
 cap with sensors
 
 ### 🎓 Education
-* [Skolkovo Institute of Science And Technology - Skoltech](https://en.misis.ru) and [Higher School of Economics - HSE](https://en.misis.ru) (2024 - Present)
-  - MCs of two diplomas, Mathematics of Machine Learning
+* [Skolkovo Institute of Science And Technology "Skoltech"](https://en.misis.ru) and [Higher School of Economics "HSE"](https://en.misis.ru) (2024 - Present)
+  - MCs of two diplomas, Data Science, Mathematics of Machine Learning (MML)
 * [National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)
   - BCs, Institute of Computer Science, Applied Mathematics
   - Diploma thesis: Action Planning by Multimodal-LLM models
@@ -102,16 +102,7 @@ cap with sensors
 
  ### 📜 Publications
  * [GCT-TTE: Graph Convolutional Transformer for Travel Time Estimation](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
-
-### 🎓 Education
-* [NUST MISIS Applied Maths B.S](https://en.misis.ru) (2020 - 2024)
-* [Deep Learning School](https://dls.samcs.ru/) (2020 - 2021)
-* [Summer with AIRI 2023](https://airi.net/ru/summer-school-2023/) (2023) | [Project](https://github.com/Yessense/llm_planning) | [Habr Paper](https://habr.com/en/companies/airi/articles/764102/)
-* [Sumsung Research Stepik ML Course](https://stepik.org/course/50352) (2018 - 2020) [Diploma](https://stepik.org/cert/1243342)
-* [Stepik Functional Analysis](https://stepik.org/course/93462) (2018 - 2020) [Diploma](https://stepik.org/cert/2019591)
-* [Basic administration ОС Linux Special Edition](https://astralinux.ru/) (2022) [Diploma](https://drive.google.com/file/d/1io6xJUEp9u91yo7ykjjCdOXGp1rRcMRZ/view?usp=sharing)
   
-
 ### 🏆 Competition and Hackathons Background
 * 🥇 [Цифровой прорыв: сезон ИИ](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
 * 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Service for marketplace using AI" 2022 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
