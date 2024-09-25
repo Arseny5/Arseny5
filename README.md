@@ -113,6 +113,8 @@ cap with sensors
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 * 1/4 final [ICPC: The 2020 Moscow Regional Contest](https://icpc.global/) | [Diploma](https://drive.google.com/file/d/1UKkFJvRUJgbIkNrkoZtFDfPGQxjUT8HB/view?usp=sharing)
 
+### 🔥 Conferences and Public Talks
+
 ### 🔥 Other projects
 Creator of Data Science Community - [AI Knowledge Club](https://ai-knowledge-club.ru)
 * Аuthor and lecturer of the course on [Introduction in ML 2022](https://ai-knowledge-club.ru/courseml_22/index.html)
