@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, I'm Arseny Ivanov!</h1>
 
-#### Multimodal and Gen AI Researcher at Skoltech and HSE
+#### Multimodal and Gen AI Researcher at Skoltech and HSE l
 
 **Fields of interest:** Multimodal, Generative AI (Diffusion, VAE/GAN, Optimal Transport, Flow Matching), Embodied AI (Planning, Manipulation, Imitation learning)
 
