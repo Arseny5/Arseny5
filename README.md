@@ -131,6 +131,8 @@ cap with sensors
 ### 🔥 Projects
 
 * Binary VQA: binary answer to the question on the image (BLIP, VILT, RoBERTa + VIT)
+* NLP Projects: implementing Transformer, BERT analyzing, NER with BERT
+* LLM Roles: KL Divergence between Multivariate Gaussians of LLM roles
  
  
 ### 🎉 Other Achievements 
