@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, I'm Arseny Ivanov!</h1>
 
-#### AI Researcher at Sber / BSc student at NUST MISIS
+#### Deep Learning Researcher at Skoltech and HSE
 
 **Fields of interest:** Multimodal, Generative AI (Diffusion, VAE/GAN, Optimal Transport, Flow Matching), Embodied AI (Planning, Manipulation, Imitation learning)
 
