@@ -84,7 +84,7 @@ optimization of model training
 cap with sensors
 
 ### 🎓 Education
-* **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://en.misis.ru) (2024 - Present)**
+* **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
   - MCs of two diplomas, Data Science, Mathematics of Machine Learning (MML)
 * **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
   - BCs, Institute of Computer Science, Applied Mathematics
