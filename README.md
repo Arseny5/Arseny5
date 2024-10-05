@@ -6,7 +6,7 @@
 
 #### Multimodal and Gen AI Researcher at Skoltech and HSE
 
-**Fields of interest:** Multimodal, Generative AI (Diffusion, VAE/GAN, Optimal Transport, Flow Matching), Embodied AI (Planning, Manipulation, Imitation learning)
+**Fields of interest:** Multimodal, Generative AI (Bayesian, Diffusion, VAE/GAN, Optimal Transport, Flow Matching), Embodied AI (Planning, Manipulation, Imitation learning)
 
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
