@@ -6,7 +6,7 @@
 
 #### Multimodal and Gen AI Researcher
 
-**Fields of interest:** Multimodal, Generative AI (Bayesian, Diffusion, VAE/GAN, Optimal Transport, Flow Matching), Embodied AI (Planning, Manipulation, Imitation learning)
+**Fields of interest:** Optimal Transport, Generative models, Diffusion, Bayesian Deep Learning, MCMC and Multimodal LLMs
 
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
