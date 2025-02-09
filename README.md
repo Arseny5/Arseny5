@@ -66,22 +66,13 @@
 </p>
 
 ### 👔 Work experience
-* Sberbank, [Sber Robotics Lab](https://www.sberbank.ru) / NLP Multimodal Researcher (Feb 2024 - Present)
-  - Developed a FeedBack Module for evaluating of the execution of actions in the environment (Video-Text Retrieval - SFT CLIP, ViClip, VideoLlava, VideoMamba).
-* Sberbank, [Sber AmazMe](https://www.sberbank.ru) / Research Data Scientist / Recommender Systems (Jun 2022 - Feb 2024):
-  - Active participation in deploying algorithms into production operation
-  - Conducting and analyzing A/B tests
-  - Reading papers from RecSys conferences, participating in the internal reading club
-  - Managed to significantly improve the recommendations: preprocessing and filtering of data,
-optimization of model training
-* Sberbank, [Sber AI](https://www.sberbank.ru) / Research Assistant (Jan 2022 - Nov 2022)
-  - Conducted an analysis of advanced scientific papers on the problem of predicting travel time
-  - Developed graph algorithms for travel time estimation, improved predictions quality by 11%
-  - Published research paper TTE on GNN for the JBD ”Journal of Big Data”
-* Sberbank, [Sber Devices](https://www.sberbank.ru) / Data Science Intern (Oct 2021 - Jan 2022)
-  - Research in the field of neuromorphic artificial intelligence and cognitive systems of the brain
-  - Developed a binary classifier of Covid19 diseases in humans based on data from an electromagnetic
-cap with sensors
+| Job Position                  | Company                    | Field                         | Work Period       |
+| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
+| Middle DL Engineer            | XLabs AI                   | GenAI, Audio, SVS             | 2024-08 — 2024-10 |
+| DL Researcher                 | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval| 2024-02 — 2024-09 |
+| Junior Data Scientist         | Sber AmazMe                | RecSys, A/B, GNNs, RL, Analytics, preprocessing      | 2022-06 — 2024-02 |
+| Research Assistant            | SberAI                     | GNN for TTE/ETA               | 2022-02 — 2022-09 |
+| Intern Data Scientist         | SberDevices                | Neuromorphic AI, time-series  | 2021-10 — 2022-01 |
 
 ### 🎓 Education
 * **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
