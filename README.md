@@ -52,10 +52,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="pandas" width="40" height="40"/>
   </a>
   
-  <a href="https://spark.apache.org" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="spark" width="40" height="40"/>
-  </a>
-  
   <a href="https://seaborn.pydata.org" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
