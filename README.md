@@ -106,7 +106,7 @@
 
 ### 📢 Schools and Conferences
 
-* **MenaML Winter School by Google DeepMind, Qatar Computing Research Institute (Doha, Qatar, 2025)**
+* **MenaML Winter School by Google DeepMind, QCRI (Doha, Qatar, 2025)**
   - Topics: LLM, Diffusion GenAI, RL, AI for Science
 * **AIRI Summer School ”Summer with AIRI” (St. Petersburg, Russia, 2024)**
   - Poster: [Vision-Language Models for Robot Success Detection](https://drive.google.com/file/d/12DtpA5dLxXosuFxuU3_5XlfJLdDAK_EA/view?usp=sharing)
