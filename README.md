@@ -104,8 +104,9 @@
 * 78/501 [MTS ML Cup](https://ods.ai/competitions/mtsmlcup) | [Solution](https://github.com/0xFF91AF/link-graph) | [Diploma](https://drive.google.com/file/d/1yUmiYRkxrJV64D0AkbLQoa6glmjMe9Uo/view?usp=sharing)
 * 1/4 final [ICPC: The 2020 Moscow Regional Contest](https://icpc.global/) | [Diploma](https://drive.google.com/file/d/1UKkFJvRUJgbIkNrkoZtFDfPGQxjUT8HB/view?usp=sharing)
 
-### 📢 Conferences and Public Talks
+### 📢 Schools and Conferences
 
+* **2025 MenaML Winter School by Google DeepMind, Qatar Computing Research Institute (Doha, Qatar, 2025)**
 * **AIRI Summer School ”Summer with AIRI” (St. Petersburg, Russia, 2024)**
   - Poster: [Vision-Language Models for Robot Success Detection](https://drive.google.com/file/d/12DtpA5dLxXosuFxuU3_5XlfJLdDAK_EA/view?usp=sharing)
 * **International Conference & Summer School ”ISSCAI” by HSE (St. Petersburg, Russia, 2024)**
