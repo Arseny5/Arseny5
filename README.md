@@ -84,19 +84,19 @@
 
 ### 🎉 Funding
 * Support program of commercially oriented researches ”UMNIK” (NUST MISIS / Sber Robotics Lab)
-  - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing) | (6500$ award)
+  - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing)
 
  ### 📜 Publications
  * [Gct-TTE: graph convolutional transformer for travel time estimation. Journal of Big Data, 11(1), 15.](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
   
 ### 🏆 Competition and Hackathons Background
-* 🥇 [Digital Breakthrough](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing) | (5000$ award)
-* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Marketplace service powered by AI" 2022 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing) | (2500$ award)
-* 🥇 [Rosatom City Hackathon](https://atomhack.rosatom.city/) "Business Analytics on Graphs alghoritms" 2021 | [Diploma](https://drive.google.com/file/d/1rz5bHnmd1VzkhxjZcabYOchBM4E0NRHn/view?usp=sharing) | (2000$ award)
-* 🥇 [«Breakthrough Energy» Hackathon](https://codenrock.com/contests/hakaton-energyhack#/) "Predictive system for gas distribution system" 2021 | [Diploma](https://drive.google.com/file/d/10VNmJB1gYa_2uiXMxlbn24Ncl7HGZitz/view?usp=sharing) | (3000$ award)
-* 🥇 [Whoosh Mobility Hackathon](https://whoosh-bike.ru/page26014231.html) "TTE and Route Search service using GNN" 2021 | [Solution](https://github.com/itatmisis/whoosh-bokom-na-kike) | [Diploma](https://drive.google.com/file/d/1kUJQy91_6KZb5hirNjSY7LWei9uHfwOc/view?usp=sharing) | (2500$ award)
-* 🥈 [Avanpost Hackathon](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/itatmisis/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing) | (1000$ award)
-* 🥈 [Leaders of Digital Transformation «LDT»](https://rucode.net) "TTE and Route Prediction" 2023 | [Solution](https://github.com/Vloods/whoosh_LDT) | [Diploma](https://drive.google.com/file/d/1yDDoblMRaeRQhtsNO2x6Aszc4I0Qdbvl/view?usp=sharing) | (6000$ award)
+* 🥇 [Digital Breakthrough](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing)
+* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Marketplace service powered by AI" 2022 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing)
+* 🥇 [Rosatom City Hackathon](https://atomhack.rosatom.city/) "Business Analytics on Graphs alghoritms" 2021 | [Diploma](https://drive.google.com/file/d/1rz5bHnmd1VzkhxjZcabYOchBM4E0NRHn/view?usp=sharing)
+* 🥇 [«Breakthrough Energy» Hackathon](https://codenrock.com/contests/hakaton-energyhack#/) "Predictive system for gas distribution system" 2021 | [Diploma](https://drive.google.com/file/d/10VNmJB1gYa_2uiXMxlbn24Ncl7HGZitz/view?usp=sharing)
+* 🥇 [Whoosh Mobility Hackathon](https://whoosh-bike.ru/page26014231.html) "TTE and Route Search service using GNN" 2021 | [Solution](https://github.com/itatmisis/whoosh-bokom-na-kike) | [Diploma](https://drive.google.com/file/d/1kUJQy91_6KZb5hirNjSY7LWei9uHfwOc/view?usp=sharing)
+* 🥈 [Avanpost Hackathon](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/itatmisis/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing)
+* 🥈 [Leaders of Digital Transformation «LDT»](https://rucode.net) "TTE and Route Prediction" 2023 | [Solution](https://github.com/Vloods/whoosh_LDT) | [Diploma](https://drive.google.com/file/d/1yDDoblMRaeRQhtsNO2x6Aszc4I0Qdbvl/view?usp=sharing)
 * 4/40 [X-MAS Hackathon](https://xmas-hack.ru/) "Named-entity recognition (NER) with documents" 2022 | [Solution](https://github.com/komtriangle/xmas)
 * 5/30 [Sber Zvuk Hackathon](https://codenrock.com/contests/sberzvuk-techdays) "CV-deblurring popular personalities on videoo" 2021 | [Diploma](https://drive.google.com/file/d/1fiPX0enLfBXcz-BYGAQgrmq58EdVwrus/view?usp=sharing)
 * 7/45 [Lenta Hack The Cart](https://hackthecart.ru/) "Recommendation System for marketplace Lenta" 2021 | [Diploma](https://drive.google.com/file/d/1xve3laWQt3f5xiE-Z81bhSrHvIpcOSKm/view?usp=sharing)
