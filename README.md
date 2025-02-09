@@ -56,10 +56,6 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="spark" width="40" height="40"/>
   </a>
   
-  <a href="https://plotly.com" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="plotly" width="40" height="40"/>
-  </a>
-  
   <a href="https://seaborn.pydata.org" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
