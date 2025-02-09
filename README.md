@@ -69,7 +69,7 @@
 | Job Position                  | Company                    | Field                         | Work Period       |
 | ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
 | Middle DL Engineer            | XLabs AI                   | GenAI, Audio, SVS             | 2024-08 — 2024-10 |
-| DL Researcher                 | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval| 2024-02 — 2024-09 |
+| DL Researcher                 | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval, Planning, RLHF | 2024-02 — 2024-09 |
 | Junior Data Scientist         | Sber AmazMe                | RecSys, A/B, GNNs, RL, Analytics, preprocessing      | 2022-06 — 2024-02 |
 | Research Assistant            | SberAI                     | GNN for TTE/ETA               | 2022-02 — 2022-09 |
 | Intern Data Scientist         | SberDevices                | Neuromorphic AI, time-series  | 2021-10 — 2022-01 |
