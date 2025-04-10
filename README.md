@@ -64,7 +64,7 @@
 | DL Researcher                 | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval, Planning, RLHF | 2024-02 — 2024-09 |
 | Junior Data Scientist         | Sber AmazMe                | RecSys, A/B, GNNs, RL, Analytics, preprocessing      | 2022-06 — 2024-02 |
 | Research Assistant            | SberAI                     | GNN for TTE/ETA               | 2022-02 — 2022-09 |
-| Intern Data Scientist         | SberDevices                | Neuromorphic AI, time-series  | 2021-10 — 2022-01 |
+| Intern Data Scientist         | SberDevices                | EEG, time-series  | 2021-10 — 2022-01 |
 
 ### 🎓 Education
 * **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
