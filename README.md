@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, I'm Arseny Ivanov!</h1>
 
-#### Multimodal and Gen AI Researcher
+#### 🚀 Multimodal and Gen AI Researcher | 🎓 Master's Student at Skoltech x HSE 
 
 **Fields of interest:** Optimal Transport, Generative models, Diffusion, Bayesian DL, MCMC, Multimodal LLMs And RL
 
