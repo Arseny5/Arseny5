@@ -20,10 +20,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
   
-  <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
-  </a>
-  
    <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
     <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
   </a>
