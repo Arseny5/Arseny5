@@ -116,9 +116,9 @@
 
 ### 🔥 Projects
 
-* Binary VQA: binary answer to the question on the image (BLIP, VILT, RoBERTa + VIT)
-* NLP Projects: implementing Transformer, BERT analyzing, NER with BERT
-* LLM Roles: KL Divergence between Multivariate Gaussians of LLM roles
+* Binary Visual Question Answering with Vision‑Language Transformers (BLIP, VILT, RoBERTa + VIT)
+* NLP Foundations: Transformer Implementation, BERT Interpretation & NER
+* Role Representation in LLMs: KL Divergence between Multivariate Gaussian Embeddings
  
  
 ### 🎉 Other Achievements 
