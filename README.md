@@ -69,6 +69,7 @@
 ### 🎓 Education
 * **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
   - MCs of two diplomas, Data Science, Mathematics of Machine Learning (MML)
+    Worked at the “Generative AI” research group at Skoltech under the supervision of Alexander Korotin.
 * **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
   - BCs, Institute of Computer Science, Applied Mathematics
   - Diploma thesis: Action Planning by Multimodal-LLM models
