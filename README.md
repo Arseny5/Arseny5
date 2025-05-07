@@ -116,9 +116,9 @@
 
 ### 🔥 Projects
 
-* Binary Visual Question Answering with Vision‑Language Transformers (BLIP, VILT, RoBERTa + VIT)
-* NLP Foundations: Transformer Implementation, BERT Interpretation & NER
-* Role Representation in LLMs: KL Divergence between Multivariate Gaussian Embeddings
+* [Binary Visual Question Answering with Vision‑Language Transformers (BLIP, VILT, RoBERTa + VIT)](https://github.com/Arseny5/vqa-research)
+* [NLP Foundations: Transformer Implementation, BERT Interpretation & NER](https://github.com/Arseny5/nlp-personal-projects)
+* [Role Representation in LLMs: KL Divergence between Multivariate Gaussian Embeddings](https://github.com/Arseny5/roles-llm-agents)
  
  
 ### 🎉 Other Achievements 
