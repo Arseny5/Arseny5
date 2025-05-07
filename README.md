@@ -60,7 +60,7 @@
 ### 👔 Work experience
 | Job Position                  | Company                    | Field                         | Work Period       |
 | ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
-| Gen AI Engineer               | XLabs AI                   | GenAI, Audio, SVS             | 2024-08 — 2024-10 |
+| Gen AI Engineer               | XLabs AI                   | Singing Voice Synthesis (SVS) | 2024-08 — 2024-10 |
 | Multimodal-LLM Engineer       | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval, Planning, RLHF | 2024-02 — 2024-09 |
 | Junior Data Scientist         | Sber AmazMe                | RecSys, Retrieval, Analytics, Deployment      | 2022-06 — 2024-02 |
 | Research Assistant            | SberAI                     | GNN for ETA               | 2022-02 — 2022-09 |
