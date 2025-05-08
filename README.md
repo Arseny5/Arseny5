@@ -105,11 +105,9 @@
   - Habr paper: [How to set a list of actions using language models and voice commands?](https://habr.com/en/companies/airi/articles/764102/)
 
 **Teaching experience**
-* **Head of DS Community [AI Knowledge Club](https://ai-knowledge-club.ru). Lecturer of the courses:**
+* **Head of DS Community [AI Knowledge Club](https://www.youtube.com/@AIKnowledgeClub/). Lecturer of the courses:**
   -  Random forest, Ensembles, Bagging, Boosting - [Video](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-3-011122-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
-  -  Introduction to Deep Learning (Tensors, MLP, CNN) - [Video](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-5-181122-%D0%BE%D1%87%D0%BD%D0%BE---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
   -  Unsupervised ML (KMeans, DBSCAN, SVD, PCA, tSNE, UMAP) - [Video](https://youtu.be/HXzamzW-68s?si=qr2Mft_pV7P2TShh)
-  -  Transformers and Attention (Self-Attention, Encoder, Decoder) - [Video](https://youtu.be/HXzamzW-68s?si=qr2Mft_pV7P2TShh)
 
 ### 🔥 Projects
 
