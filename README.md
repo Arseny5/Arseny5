@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, I'm Arseny Ivanov!</h1>
 
-#### 🚀 Multimodal and Gen AI Researcher / 🎓 Master's Student at Skoltech x HSE 
+#### 🚀 Gen AI Research Scientist / 🎓 Master's Student at Skoltech x HSE 
 
 **Fields of interest:** Generative models, Optimal Transport, Schrodinger Bridges, Diffusion Distillation, Video Generation, Text Diffusion
 
