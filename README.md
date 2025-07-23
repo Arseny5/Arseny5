@@ -6,7 +6,7 @@
 
 #### 🚀 Multimodal and Gen AI Researcher / 🎓 Master's Student at Skoltech x HSE 
 
-**Fields of interest:** Generative models, Diffusion, Optimal Transport, Bayesian DL, MCMC, Multimodal LLMs And RL
+**Fields of interest:** Generative models, Optimal Transport, Schrodinger Bridges, Diffusion Distillation, Video Generation, Text Diffusion
 
 
 **My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
