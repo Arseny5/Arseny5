@@ -64,7 +64,7 @@
 
 ### 🎓 Education
 * **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
-  - MCs of two diplomas, Data Science, Mathematics of Machine Learning (MML) <br>
+  - MCs of two diplomas, Data Science, Math of Machine Learning (MML) <br>
     Worked at the [“Generative AI” research group at Skoltech](https://akorotin.netlify.app/team/) under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
 * **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
   - BCs, Institute of Computer Science, Applied Mathematics
