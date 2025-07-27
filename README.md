@@ -56,6 +56,7 @@
 ### 👔 Work experience
 | Job Position                  | Company                    | Field                         | Work Period       |
 | ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
+| Gen AI Research Scientist     | “Gen AI” research group at Skoltech | OT, Video Generation, Text Diffusion | 2024-11 — now |
 | Gen AI Engineer               | XLabs AI                   | Singing Voice Synthesis (SVS) | 2024-08 — 2024-11 |
 | Multimodal-LLM Engineer       | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval, Planning, RLHF | 2024-02 — 2024-09 |
 | Junior Data Scientist         | Sber AmazMe                | RecSys, Retrieval, Analytics, Deployment      | 2022-06 — 2024-02 |
