@@ -56,7 +56,6 @@
 ### 👔 Work experience
 | Job Position                  | Company                    | Field                         | Work Period       |
 | ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
-| Gen AI Research Scientist     | “Gen AI” group at Skoltech | OT, Video Generation, Text Diffusion | 2024-11 — now |
 | Gen AI Engineer               | XLabs AI                   | Singing Voice Synthesis (SVS) | 2024-08 — 2024-11 |
 | Multimodal-LLM Engineer       | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval, Planning, RLHF | 2024-02 — 2024-09 |
 | Junior Data Scientist         | Sber AmazMe                | RecSys, Retrieval, Analytics, Deployment      | 2022-06 — 2024-02 |
@@ -64,9 +63,9 @@
 | Intern Data Scientist         | SberDevices                | EEG, Time-Series  | 2021-10 — 2022-01 |
 
 ### 🎓 Education
-* **[Skolkovo Institute of Science And Technology "Skoltech"](https://msc.skoltech.ru/data-science) and [Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
-  - MCs of two diplomas, Data Science, Math of Machine Learning (MML) <br>
-    Worked at the [“Generative AI” research group at Skoltech](https://akorotin.netlify.app/team/) under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
+* **[Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
+  - MCs, Data Science, Math of Machine Learning (MML) <br>
+    Worked at the [“Generative AI” research group](https://akorotin.netlify.app/team/) under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
 * **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
   - BCs, Institute of Computer Science, Applied Mathematics
   - Diploma thesis: Action Planning by Multimodal-LLM models
