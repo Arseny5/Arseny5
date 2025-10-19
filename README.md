@@ -65,7 +65,7 @@
 ### 🎓 Education
 * **[Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
   - MCs, Data Science, Math of Machine Learning (MML) <br>
-    Worked at the [“Generative AI” research group](https://akorotin.netlify.app/team/) under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
+    Worked at the “Generative AI” research group under the supervision of [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=en)
 * **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
   - BCs, Institute of Computer Science, Applied Mathematics
   - Diploma thesis: Action Planning by Multimodal-LLM models
