@@ -4,8 +4,6 @@
 
 <h1 align="left">Hello, I'm Arseny Ivanov!</h1>
 
-#### 🚀 Gen AI Research Scientist / 🎓 Master's Student at HSE 
-
 **Fields of interest:** Generative models, Optimal Transport, Schrodinger Bridges, Diffusion Distillation, Video Generation, Text Diffusion
 
 **My curriculum vitae**: CV
