@@ -48,74 +48,15 @@
   </a>
 </p>
 
-### 👔 Work experience
-| Job Position                  | Company                    | Field                         | Work Period       |
-| ----------------------------- | -------------------------- | ----------------------------- | ----------------- |
-| Gen AI Engineer               | XLabs AI                   | Singing Voice Synthesis (SVS) | 2024-08 — 2024-11 |
-| Multimodal-LLM Engineer       | Sber Robotics Lab          | LLM, CV, Multimodal, Retrieval, Planning, RLHF | 2024-02 — 2024-09 |
-| Junior Data Scientist         | Sber AmazMe                | RecSys, Retrieval, Analytics, Deployment      | 2022-06 — 2024-02 |
-| Research Assistant            | SberAI                     | GNN for ETA               | 2022-02 — 2022-09 |
-| Intern Data Scientist         | SberDevices                | EEG, Time-Series  | 2021-10 — 2022-01 |
-
 ### 🎓 Education
 * **[Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
   - MCs, Data Science, Math of Machine Learning (MML) <br>
-    Worked at the “Generative AI” research group under the supervision of [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=en)
+    Worked under supervision of [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=en)
 * **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
   - BCs, Institute of Computer Science, Applied Mathematics
   - Diploma thesis: Action Planning by Multimodal-LLM models
-  
-
-### 🎉 Funding
-* Support program of commercially oriented researches ”UMNIK” (NUST MISIS / Sber Robotics Lab)
-  - Learning LLM models for the tasks of robotic manipulation 2022-2023 | [Video](https://youtu.be/nEf-FpTRtWY?feature=shared) | [Poster](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing)
 
  ### 📜 Publications
- * [Gct-TTE: graph convolutional transformer for travel time estimation. Journal of Big Data, 11(1), 15.](https://www.researchgate.net/publication/371375863_GCT-TTE_Graph_Convolutional_Transformer_for_Travel_Time_Estimation) 2023
+  * [Time-Correlated Video Bridge Matching](https://arxiv.org/abs/2510.12453) 2025
+  * [Gct-TTE: graph convolutional transformer for travel time estimation. Journal of Big Data](https://arxiv.org/abs/2306.04324) 2024
   
-### 🏆 Competition and Hackathons Background
-* 🥇 [Digital Breakthrough](https://hacks-ai.ru/) "Video Recommendation System for RuTube" 2023 | [Solution](https://github.com/komtriangle/AI_Knowledge_Club_DP) | [Diploma](https://drive.google.com/file/d/1dhiFn2fJ8Kv2wYxHJgC7fEX8LPgae8aP/view?usp=sharing)
-* 🥇 [Agora Hackathon](https://hackathon.agora.ru/) "Marketplace service powered by AI" 2022 | [Solution](https://github.com/badbadnotgoood/agora-hack) | [Diploma](https://drive.google.com/file/d/1Qz2uGKlbbQx05G6mNyId5xrVyoWaoTpk/view?usp=sharing)
-* 🥇 [Rosatom City Hackathon](https://atomhack.rosatom.city/) "Business Analytics on Graphs alghoritms" 2021 | [Diploma](https://drive.google.com/file/d/1rz5bHnmd1VzkhxjZcabYOchBM4E0NRHn/view?usp=sharing)
-* 🥇 [«Breakthrough Energy» Hackathon](https://codenrock.com/contests/hakaton-energyhack#/) "Predictive system for gas distribution system" 2021 | [Diploma](https://drive.google.com/file/d/10VNmJB1gYa_2uiXMxlbn24Ncl7HGZitz/view?usp=sharing)
-* 🥇 [Whoosh Mobility Hackathon](https://whoosh-bike.ru/page26014231.html) "TTE and Route Search service using GNN" 2021 | [Solution](https://github.com/itatmisis/whoosh-bokom-na-kike) | [Diploma](https://drive.google.com/file/d/1kUJQy91_6KZb5hirNjSY7LWei9uHfwOc/view?usp=sharing)
-* 🥈 [Avanpost Hackathon](https://rucode.net) "Transfer learning for ResNet50" 2022 | [Solution](https://github.com/itatmisis/Avanpost_MISIS_AI_LAB) | [Diploma](https://drive.google.com/file/d/1ICQzk56C44__CSfvTJcUgn6-4jmAXjeb/view?usp=sharing)
-* 🥈 [Leaders of Digital Transformation «LDT»](https://rucode.net) "TTE and Route Prediction" 2023 | [Solution](https://github.com/Vloods/whoosh_LDT) | [Diploma](https://drive.google.com/file/d/1yDDoblMRaeRQhtsNO2x6Aszc4I0Qdbvl/view?usp=sharing)
-* 4/40 [X-MAS Hackathon](https://xmas-hack.ru/) "Named-entity recognition (NER) with documents" 2022 | [Solution](https://github.com/komtriangle/xmas)
-* 5/30 [Sber Zvuk Hackathon](https://codenrock.com/contests/sberzvuk-techdays) "CV-deblurring popular personalities on videoo" 2021 | [Diploma](https://drive.google.com/file/d/1fiPX0enLfBXcz-BYGAQgrmq58EdVwrus/view?usp=sharing)
-* 7/45 [Lenta Hack The Cart](https://hackthecart.ru/) "Recommendation System for marketplace Lenta" 2021 | [Diploma](https://drive.google.com/file/d/1xve3laWQt3f5xiE-Z81bhSrHvIpcOSKm/view?usp=sharing)
-* 5/30 [AgroCode Hackathon](https://agro-code.ru/hack/) "Building an optimized driving route" 2021 | [Diploma](https://drive.google.com/file/d/12HgnziPT41Iqr2A47guI7tZk8Gc9skfT/view?usp=sharing)
-* 1/4 final [ICPC: The 2020 Moscow Regional Contest](https://icpc.global/) | [Diploma](https://drive.google.com/file/d/1UKkFJvRUJgbIkNrkoZtFDfPGQxjUT8HB/view?usp=sharing)
-
-### 📢 Schools and Conferences
-
-* **MenaML Winter School by Google DeepMind, QCRI (Doha, Qatar, 2025)**
-  - Topics: LLM, Diffusion GenAI, RL, AI for Science
-* **AIRI Summer School ”Summer with AIRI” (St. Petersburg, Russia, 2024)**
-  - Poster: [Vision-Language Models for Robot Success Detection](https://drive.google.com/file/d/12DtpA5dLxXosuFxuU3_5XlfJLdDAK_EA/view?usp=sharing)
-* **International Conference & Summer School ”ISSCAI” by HSE (St. Petersburg, Russia, 2024)**
-  - Poster: [Graph Convolutional Transformers for Travel Time Estimation](https://drive.google.com/file/d/1QLB5AhzbN-O58WHVHuqZRNhAZkkIK-LQ/view?usp=sharing)
-* **AIRI Summer School ”Summer with AIRI” (Kazan, Russia, 2023)**
-  - Poster: [Grounding Local LLMs to Robotic Manipulation Tasks](https://drive.google.com/file/d/1HReiigDUFmA6hkYgQiXs0YM1OnwR_uRf/view?usp=sharing)
-  - Habr paper: [How to set a list of actions using language models and voice commands?](https://habr.com/en/companies/airi/articles/764102/)
-
-**Teaching experience**
-* **Head of DS Community [AI Knowledge Club](https://www.youtube.com/@AIKnowledgeClub/). Lecturer of the courses:**
-  -  Random forest, Ensembles, Bagging, Boosting - [Video](https://misisailab.github.io/docs/program.html#%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-3-011122-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD---%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-%D0%B0%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9---%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B--%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE)
-  -  Unsupervised ML (KMeans, DBSCAN, SVD, PCA, tSNE, UMAP) - [Video](https://youtu.be/HXzamzW-68s?si=qr2Mft_pV7P2TShh)
-
-### 🔥 Projects
-
-* [Binary Visual Question Answering with Vision‑Language Transformers (BLIP, VILT, RoBERTa + VIT)](https://github.com/Arseny5/vqa-research)
-* [NLP Foundations: Transformer Implementation, BERT Interpretation & NER](https://github.com/Arseny5/nlp-personal-projects)
-* [Role Representation in LLMs: KL Divergence between Multivariate Gaussian Embeddings](https://github.com/Arseny5/roles-llm-agents)
- 
- 
-### 🎉 Other Achievements 
-* [Astra Linux Scholarship](https://astralinux.ru/about/press-center/news/bolee-70-studentov-poluchayut-ezhemesyachnoe-voznagrazhdenie-v-ramkakh-programmy-astra-stipendiya/) holder (2023 - 2024)
-* [VK Education Scholarship](https://education.vk.company/program/239) holder (2023 - 2024)
-
-### Languages
-🇷🇺 Russian - Native <br>
-🇬🇧 English - С1 (Intermediate-Advanced) <br>
-🇨🇵 French - A2 (Elementary) <br>
