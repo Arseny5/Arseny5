@@ -8,9 +8,6 @@
 
 **Fields of interest:** Generative models, Optimal Transport, Schrodinger Bridges, Diffusion Distillation, Video Generation, Text Diffusion
 
-
-**My telegram channel**: [AI - Arseny Ivanov](https://t.me/ivarsivars)
-
 **My curriculum vitae**: CV
 </br>
 
