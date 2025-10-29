@@ -6,7 +6,7 @@
 
 **Fields of interest:** Generative models, Optimal Transport, Schrodinger Bridges, Diffusion Distillation, Video Generation, Text Diffusion
 
-**My curriculum vitae**: CV
+**My curriculum vitae**: [CV](https://drive.google.com/file/d/1EFgLtoQ_0S9duxD7z4D9_jhNhORDZBmp/view?usp=sharing)
 </br>
 
 ### 📊 ML stack
