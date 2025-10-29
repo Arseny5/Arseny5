@@ -48,14 +48,6 @@
   </a>
 </p>
 
-### 🎓 Education
-* **[Higher School of Economics "HSE"](https://www.hse.ru/ma/sltheory/) (2024 - Present)**
-  - MCs, Data Science, Math of Machine Learning (MML) <br>
-    Worked under supervision of [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=en)
-* **[National University of Science and Technology "MISIS"](https://en.misis.ru) (2020 - 2024)**
-  - BCs, Institute of Computer Science, Applied Mathematics
-  - Diploma thesis: Action Planning by Multimodal-LLM models
-
  ### 📜 Publications
  * Time-Correlated Video Bridge Matching, Preprint 2025  [[arXiv](https://arxiv.org/abs/2510.12453)]
  * Gct-TTE: graph convolutional transformer for travel time estimation, Journal of Big Data (JBD) 2024  [[arXiv](https://arxiv.org/abs/2306.04324)]
