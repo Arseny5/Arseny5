@@ -57,6 +57,6 @@
   - Diploma thesis: Action Planning by Multimodal-LLM models
 
  ### 📜 Publications
-  * [Time-Correlated Video Bridge Matching](https://arxiv.org/abs/2510.12453) 2025
-  * [Gct-TTE: graph convolutional transformer for travel time estimation. Journal of Big Data](https://arxiv.org/abs/2306.04324) 2024
+ * Time-Correlated Video Bridge Matching, Preprint 2025  [[arXiv](https://arxiv.org/abs/2510.12453)]
+ * Gct-TTE: graph convolutional transformer for travel time estimation, Journal of Big Data (JBD) 2024  [[arXiv](https://arxiv.org/abs/2306.04324)]
   
