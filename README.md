@@ -49,6 +49,6 @@
 </p>
 
  ### 📜 Publications
- * Time-Correlated Video Bridge Matching, AISTATS 2026 (Poster)  [[arXiv](https://arxiv.org/abs/2510.12453)]
+ * Time-Correlated Video Bridge Matching, Preprint [[arXiv](https://arxiv.org/abs/2510.12453)]
  * Gct-TTE: graph convolutional transformer for travel time estimation, Journal of Big Data (JBD) 2024  [[arXiv](https://arxiv.org/abs/2306.04324)]
   
