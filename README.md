@@ -49,6 +49,6 @@
 </p>
 
  ### 📜 Publications
- * Time-Correlated Video Bridge Matching, Preprint [[ICLR 2026 2nd Workshop on Deep Generative Model in Machine Learning](https://arxiv.org/abs/2510.12453)]
+ * Time-Correlated Video Bridge Matching, ICLR 2026 2nd Workshop on Deep Generative Model in Machine Learning [[arXiv](https://arxiv.org/abs/2510.12453)]
  * Gct-TTE: graph convolutional transformer for travel time estimation, Journal of Big Data (JBD) 2024  [[arXiv](https://arxiv.org/abs/2306.04324)]
   
