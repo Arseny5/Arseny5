@@ -4,7 +4,7 @@
 
 <h1 align="left">Hello, I'm Arseny Ivanov!</h1>
 
-Generative AI Research Scientist @ AXXX
+Generative AI Research Scientist @ AXXX <br>
 Master's student at Math of Machine Learning (MML) program at HSE and Applied AI Institute.
 
 I am deeply interested in: 
